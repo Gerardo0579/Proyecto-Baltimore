@@ -1,0 +1,1 @@
+﻿{"Receta":{"nombreReceta":"Tacos de sal","tiempoPreparacion":5,"porciones":5,"dificultad":5,"direccionImagenReceta":"imgTacosDeSal.png","categorias":{"categoriaItem":[{"categoria":"tacos"},{"categoria":"sal"}]},"listaIngredientes":{"ingredienteItem":[{"ingrediente":"Tortillas","cantidad":5},{"ingrediente":"Sal","cantidad":5}]}}}
